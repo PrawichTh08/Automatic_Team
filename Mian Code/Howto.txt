@@ -1,0 +1,17 @@
+
+to use Automatic teaming Up system start with edit the manyfunction.py
+
+example :
+if playerinput == ("KIN"):
+  playeinput = int(4)
+  
+Replace KIN with your player name / player Code
+on second line:  change number to player Score
+---------------------------------------
+
+
+Run Automatic team.py
+
+enter you player (10)players
+
+Hre come to result
