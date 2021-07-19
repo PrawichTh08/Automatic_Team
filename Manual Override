@@ -92,12 +92,14 @@ while True:
         print("Fair! With the Score of ", ascore, " each!")
         pvmap = random.choice(vmap)
         print("Today map : ", pvmap)
+        print("Code by Sen, Saikaaaa, Ran")
     else:
         if ascore != dscore:
             print("Unfair! Defenders' have ", scoredif, " more point(s).")
         else:
             scoredif = ascore - dscore
             print("Unfair! Attackers' have ", scoredif, " more point(s).")
+    
 
     print("")
 
